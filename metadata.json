@@ -1,0 +1,5 @@
+{
+  "name": "Jogo: Relógio da Sorte",
+  "description": "A betting game where players choose a specific minute on the clock. A timer runs and stops at a random time. The player who guessed the exact minute, or the closest one, wins the jackpot.",
+  "requestFramePermissions": []
+}
